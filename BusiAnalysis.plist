@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://211.137.252.249:18082/mobile_jf/view/upload/BusiAnalysis.ipa</string>
+					<string>https://211.137.254.156:18080/mobile_jf/view/upload/BusiAnalysis.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://211.137.252.249:18082/mobile_jf/view/image/icon-new01.png</string>
+					<string>https://211.137.254.156:18080/mobile_jf/view/image/icon-new01.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://211.137.252.249:18082/mobile_jf/view/image/icon-new02.png</string>
+					<string>https://211.137.254.156:18080/mobile_jf/view/image/icon-new02.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
